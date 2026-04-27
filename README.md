@@ -1,4 +1,4 @@
-# Hi, I'm ABD Errahman
+# Hi, I'm Abderrahmane
 
 I’m a web developer and UI/UX-focused engineer who loves turning complex ideas into clean, intuitive digital experiences. I combine a strong technical foundation with a design-first mindset to build interfaces that are fast, accessible, and genuinely pleasant to use.
 
